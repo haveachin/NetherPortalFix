@@ -1,0 +1,4 @@
+name: NetherPortalFix
+main: de.haveachin.netherportalfix.NetherPortalFix
+version: 1.0.0
+description: Allows a player to return to the same Nether portal through that he had entered in the overworld

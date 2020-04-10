@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetherPortalFix">
+    <output-path>$PROJECT_DIR$/../../Spigot-1.15.2/plugins</output-path>
+    <root id="archive" name="NetherPortalFix.jar">
+      <element id="module-output" name="NetherPortalFix" />
+    </root>
+  </artifact>
+</component>
